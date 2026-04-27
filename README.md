@@ -3,7 +3,7 @@
 Experimental dataset used in the publication:
 
 > **Karunarathne, P. & Lin, W.** (2025).
-> *Ultrasonic P-wave velocities in granite cores with an inclined joint filled with sand and clay under varying water contents.*
+> Ultrasonic P-wave velocities in granite cores with an inclined joint filled with sand and clay under varying water contents.
 > *International Journal of Rock Mechanics and Mining Sciences*, **195**, 106316.
 > https://doi.org/10.1016/j.ijrmms.2025.106316
 

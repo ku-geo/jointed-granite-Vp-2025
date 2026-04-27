@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the dataset and the related publication listed under preferred-citation."
+type: dataset
+title: "Ultrasonic P-Wave Velocities in Granite Cores with an Inclined Joint Filled with Sand and Clay under Varying Water Contents"
+authors:
+  - family-names: Karunarathne
+    given-names: Prasad
+    affiliation: "Graduate School of Engineering, Kyoto University"
+  - family-names: Lin
+    given-names: Weiren
+    affiliation: "Graduate School of Engineering, Kyoto University"
+year: 2025
+license: CC-BY-NC-ND-4.0
+preferred-citation:
+  type: article
+  title: "Ultrasonic P-wave velocities in granite cores with an inclined joint filled with sand and clay under varying water contents"
+  authors:
+    - family-names: Karunarathne
+      given-names: Prasad
+      affiliation: "Graduate School of Engineering, Kyoto University"
+    - family-names: Lin
+      given-names: Weiren
+      affiliation: "Graduate School of Engineering, Kyoto University"
+  year: 2025
+  journal: "International Journal of Rock Mechanics and Mining Sciences"
+  volume: 195
+  start: 106316
+  doi: "10.1016/j.ijrmms.2025.106316"

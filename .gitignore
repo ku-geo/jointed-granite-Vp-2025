@@ -1,0 +1,14 @@
+# Original source files kept locally but not published
+Ultrasonic P-wave velocities in granite cores with an inclined joint filled - Prasad Karunarathne.pdf
+Read me.docx
+Data of Velocity plots.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / local tooling
+.vscode/
+.idea/
+.claude/

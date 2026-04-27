@@ -33,8 +33,8 @@ of the experimental findings.
 
 | File | Description |
 |---|---|
-| `data/data_of_velocity_plots.xlsx` | Source data for the velocity plots in the paper. Each sheet (`Figure 3a`, `Figure 7`–`Figure 17`) corresponds to the figure of the same number in the publication. |
-| `data/tables.docx` | Summary tables of physical and mechanical properties of the granite specimens and infilling materials. |
+| `data/data_of_velocity_plots.xlsx` | Source data for the velocity plots |
+| `data/tables.docx` | Tables of the paper |
 
 ## Citation
 
